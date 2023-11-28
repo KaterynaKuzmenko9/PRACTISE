@@ -78,8 +78,10 @@ h2{
 .sweets{
     background:#FFF9EA;
     color: #774E2E;
-    width:1920px;
     height: 911;
+    border:1px solid #000;
+    max-width: 1170px;
+    margin: 0 auto;
     
 }
 
@@ -111,3 +113,36 @@ h2{
         justify-content: space-between;
         
     }
+
+    h6{
+        font-size: 72px;
+        text-align: center;
+    }
+
+
+    .yummy{
+        font-size: 16px;
+       width:  575px; 
+       height: 168px;
+    }
+    
+
+    .advice{
+        background-image: url("img/333\ 1.png");
+        background-repeat: no-repeat;
+        background-position: center right;
+        width: 1170px;
+        height: 722px;
+        border:1px solid #000;
+        max-width: 1170px;
+        margin: 0 auto;
+        
+
+    }
+
+    .choice{
+       font-size: 16px;
+       width: 575px;
+       height: 168;
+    }
+
