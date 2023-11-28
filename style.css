@@ -65,7 +65,49 @@ h1{
     height: 70px;
     cursor: pointer;
     margin-top: 35px;
-
-
-
 }
+
+h2{
+
+    text-align: center;
+    width: 1155px;
+    height: 80;
+    border: 1px solid red;
+}
+
+.sweets{
+    background:#FFF9EA;
+    color: #774E2E;
+    width:1920px;
+    height: 911;
+    
+}
+
+    .kinds1{
+        background: white;
+        width: 370px;
+        height: 465px;
+        text-align: center;
+        display: inline-block;
+        justify-content: space-between;
+        
+    }
+    .kinds2{
+        background: white;
+        width: 370px;
+        height: 465px;
+        text-align: center;
+        display: inline-block;
+        justify-content: space-between;
+        
+    }
+
+    .kinds3{
+        background: white;
+        width: 370px;
+        height: 465px;
+        text-align: center;
+        display: inline-block;
+        justify-content: space-between;
+        
+    }
