@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+
+body{
+    font-family: Montserrat;
+    font-weight: 500;
+    margin: 0;
+    color: #774E2E;
+
+}
+
+.container{
+    border:1px solid #000;
+    max-width: 1170px;
+    margin: 0 auto;
+
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav{
+    border: 1px solid green;
+
+}
+
+.menu nav a{
+    text-decoration: none;
+    color:#774E2E;
+    margin-left: 50px;
+    font-weight: 500;
+}
+
+
+.welcome{
+    background-image: url(img/1.png);
+    background-repeat: no-repeat;
+    background-position: center right;
+    padding-top: 60px;
+}
+
+.welcome-title{
+    width: 575px;
+}
+ 
+h1{
+    font-size: 110px;
+    font-weight: 800;
+}
+
+
+.btn{
+    background: #774E2E;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    width: 345px;
+    height: 70px;
+    cursor: pointer;
+    margin-top: 35px;
+
+
+
+}
