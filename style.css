@@ -96,6 +96,7 @@ h2 span{
     padding-top: 60px;
     padding-left: 341px;
     
+    
 }
 
 .kinds{
@@ -110,13 +111,17 @@ h2 span{
 
     h6{
         font-size: 72px;
+        font-weight: 700;
         text-align: center;
+        line-height: 110px;
+    margin: 0;
     }
 
 
 
 h6 span{
     color:#F37F34;
+ 
 }
     .box{
         display: flex;
@@ -127,20 +132,14 @@ h6 span{
     }
 
 
-    .yummy{
-        font-size: 16px;
-       width:  575px; 
-       height: 168px;
-    }
+
     
 
     .advice{
         background-image: url("img/333\ 1.png");
         background-repeat: no-repeat;
         background-position: center right;
-        width: 1170px;
         height: 722px;
-        border:1px solid #000;
         max-width: 1170px;
         margin: 0 auto;
         
@@ -150,6 +149,38 @@ h6 span{
     .choice{
        font-size: 16px;
        width: 575px;
-       height: 168;
+       height: 635px;
+       
     }
 
+  h6.size{
+    font-size: 24px;
+    font-weight: 600;
+    
+  }
+
+
+  li{
+    font-size: 16px;
+    font-weight: 500;
+  }
+
+  footer{
+    background-color: #774E2E;  
+    
+  }
+
+
+  .finish{
+
+    color: white;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 500;
+    padding-bottom: 70px;
+  }
+
+  .logo-finish{
+    margin-left: 375px;
+    
+  }
