@@ -85,38 +85,24 @@ h2{
     
 }
 
-    .kinds1{
-        background: white;
-        width: 370px;
-        height: 465px;
-        text-align: center;
-        display: inline-block;
-        justify-content: space-between;
-        
-    }
-    .kinds2{
-        background: white;
-        width: 370px;
-        height: 465px;
-        text-align: center;
-        display: inline-block;
-        justify-content: space-between;
-        
-    }
-
-    .kinds3{
-        background: white;
-        width: 370px;
-        height: 465px;
-        text-align: center;
-        display: inline-block;
-        justify-content: space-between;
+.kinds{
+    background: white;
+    width: 370px;
+    height: 465px;
+    text-align: center;
+    display: inline-block;
+    justify-content: space-between;
         
     }
 
     h6{
         font-size: 72px;
         text-align: center;
+    }
+    .box{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
     }
 
 
