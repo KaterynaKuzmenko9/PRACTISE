@@ -53,8 +53,15 @@ nav{
 h1{
     font-size: 110px;
     font-weight: 800;
+    line-height: 110px;
+    margin: 0;
 }
 
+
+
+h1 span{
+    color:#F37F34;
+}
 
 .btn{
     background: #774E2E;
@@ -68,27 +75,33 @@ h1{
 }
 
 h2{
-
+    font-size: 72px;
+    font-weight: 700;
     text-align: center;
-    width: 1155px;
-    height: 80;
     border: 1px solid red;
+    
 }
 
+
+h2 span{
+    color:#F37F34;
+}
 .sweets{
     background:#FFF9EA;
     color: #774E2E;
     height: 911;
     border:1px solid #000;
-    max-width: 1170px;
+    max-width: 1920px;
     margin: 0 auto;
+    padding-top: 60px;
+    padding-left: 341px;
     
 }
 
 .kinds{
     background: white;
     width: 370px;
-    height: 465px;
+    height: 462px;
     text-align: center;
     display: inline-block;
     justify-content: space-between;
@@ -99,10 +112,18 @@ h2{
         font-size: 72px;
         text-align: center;
     }
+
+
+
+h6 span{
+    color:#F37F34;
+}
     .box{
         display: flex;
         justify-content: space-between;
         align-items: center;
+        width:1170px;
+        height: 611px;
     }
 
 
