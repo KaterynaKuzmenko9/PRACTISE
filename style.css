@@ -14,7 +14,7 @@ body{
 }
 
 .container{
-    border:1px solid #000;
+    /* border:1px solid #000; */
     max-width: 1170px;
     margin: 0 auto;
 
@@ -27,7 +27,7 @@ body{
 }
 
 nav{
-    border: 1px solid green;
+    /* border: 1px solid green; */
 
 }
 
@@ -78,7 +78,7 @@ h2{
     font-size: 72px;
     font-weight: 700;
 
-    border: 1px solid red;
+    /* border: 1px solid red; */
     
 }
 
@@ -90,7 +90,7 @@ h2 span{
     background:#FFF9EA;
     color: #774E2E;
     height: 911;
-    border:1px solid #000;
+    /* border:1px solid #000; */
     max-width: 1920px;
     margin: 0 auto;
     padding-top: 60px;
@@ -100,6 +100,7 @@ h2 span{
 }
 
 .kinds{
+    /* border: 2px solid blue; */
     background: white;
     width: 370px;
     height: 462px;
@@ -142,6 +143,7 @@ h6 span{
         height: 722px;
         max-width: 1170px;
         margin: 0 auto;
+        /* border: 2px solid aqua; */
         
 
     }
@@ -167,6 +169,7 @@ h6 span{
 
   footer{
     background-color: #774E2E;  
+    font-family: Montserrat;
     
   }
 
@@ -177,10 +180,12 @@ h6 span{
     text-align: center;
     font-size: 36px;
     font-weight: 500;
-    padding-bottom: 70px;
+    padding-bottom: 110px;
   }
 
   .logo-finish{
     margin-left: 375px;
+   
     
   }
+
